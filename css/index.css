@@ -13,13 +13,19 @@ body {
 .criaçao-site div {
     display: grid;
     justify-content: center;
+<<<<<<< HEAD
     position: relative;
+=======
+>>>>>>> 5939e7bab1e637cfe285691d8ab270290d9b5722
 }
 main div{
     display: grid;
     align-items: center;
     justify-content: center;
+<<<<<<< HEAD
     
+=======
+>>>>>>> 5939e7bab1e637cfe285691d8ab270290d9b5722
 }
 
 #quem-somos {
@@ -85,7 +91,11 @@ main #conteiner .projeto:hover{
 
 .projeto {
     background-color: #fff; 
+<<<<<<< HEAD
     padding: 15px; 
+=======
+    padding: 20px; 
+>>>>>>> 5939e7bab1e637cfe285691d8ab270290d9b5722
     border-radius: 8px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
@@ -97,7 +107,11 @@ main #conteiner .projeto:hover{
 
 .projeto img {
     width: 100%; 
+<<<<<<< HEAD
     border-radius: 6px; 
+=======
+    border-radius: 8px; 
+>>>>>>> 5939e7bab1e637cfe285691d8ab270290d9b5722
     margin-bottom: 15px; 
 }
 .projeto h3 {
