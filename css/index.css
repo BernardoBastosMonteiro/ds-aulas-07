@@ -13,11 +13,13 @@ body {
 .criaçao-site div {
     display: grid;
     justify-content: center;
+    position: relative;
 }
 main div{
     display: grid;
     align-items: center;
     justify-content: center;
+    
 }
 
 #quem-somos {
